@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyApp.Db.DbOperations
+namespace MyApp.Models
 {
-    class EmployeeRepository
+    public class Class1
     {
-         
     }
 }
