@@ -1,0 +1,6 @@
+D:\mvc code\WebApplication7\MyApp.Db\bin\Debug\MyApp.Db.dll
+D:\mvc code\WebApplication7\MyApp.Db\bin\Debug\MyApp.Db.pdb
+D:\mvc code\WebApplication7\MyApp.Db\obj\Debug\MyApp.Db.csprojAssemblyReference.cache
+D:\mvc code\WebApplication7\MyApp.Db\obj\Debug\MyApp.Db.csproj.CoreCompileInputs.cache
+D:\mvc code\WebApplication7\MyApp.Db\obj\Debug\MyApp.Db.dll
+D:\mvc code\WebApplication7\MyApp.Db\obj\Debug\MyApp.Db.pdb
