@@ -70,3 +70,10 @@ D:\mvc code\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.Cor
 D:\mvc code\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CopyComplete
 D:\mvc code\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
 D:\mvc code\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+D:\mvc code\WebApplication7\WebApplication7\bin\MyApp.Db.dll
+D:\mvc code\WebApplication7\WebApplication7\bin\MyApp.Models.dll
+D:\mvc code\WebApplication7\WebApplication7\bin\EntityFramework.dll
+D:\mvc code\WebApplication7\WebApplication7\bin\MyApp.Db.pdb
+D:\mvc code\WebApplication7\WebApplication7\bin\MyApp.Db.dll.config
+D:\mvc code\WebApplication7\WebApplication7\bin\MyApp.Models.pdb
+D:\mvc code\WebApplication7\WebApplication7\bin\EntityFramework.xml

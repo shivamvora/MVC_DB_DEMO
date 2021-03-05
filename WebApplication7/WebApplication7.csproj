@@ -88,11 +88,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -101,6 +103,9 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Create.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -110,13 +115,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyApp.Db\MyApp.Db.csproj">
       <Project>{9572e162-0948-4aab-8735-22401fe167b6}</Project>
       <Name>MyApp.Db</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyApp.Models\MyApp.Models.csproj">
+      <Project>{6970be2d-204b-466b-a91f-962032f9636d}</Project>
+      <Name>MyApp.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
